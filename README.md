@@ -1,6 +1,6 @@
 # Automated Digitization and Summarization of Analog Archives: Comparing summaries made by GPT-3 and a human
 
-Maja Linderholm, Markus Skogsmo
+Authors: Maja Linderholm, Markus Skogsmo
 
 To open and run the code, there is a need to have a login on Google.
 
